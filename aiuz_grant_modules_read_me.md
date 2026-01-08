@@ -29,7 +29,7 @@
 - Format: `.zip`
 - License: CC BY-NC-SA 4.0
 
-**Contact**: grants@aiuz.org
+**Contact**: a.abdukarimov@fractal-metascience.org
 
 ---
 
