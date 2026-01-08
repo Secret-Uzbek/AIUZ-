@@ -83,5 +83,5 @@
 
 - Версия: V1.0 (2025-07-07)
 - Совместимость: AIUZ Stack >= 0.9
-- Контакт: infrastructure@aiuz.org
+- Контакт: a.abdukarimov@fractal-metascience.org
 
