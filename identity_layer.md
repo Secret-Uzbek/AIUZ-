@@ -70,3 +70,8 @@
 - Совместим с W3C DID-Core, AIUZ Governance Layer v0.1
 - Готов к расширению на KYC/AML сценарии и биоаутентификацию
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
