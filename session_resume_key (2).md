@@ -23,3 +23,8 @@ system_notes:
   - translation + archival steps skipped due to I/O isolation
   - to resume, load this session key and rerun export/pack
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
