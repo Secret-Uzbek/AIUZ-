@@ -75,3 +75,8 @@ AIUZ_Ecosystem_CleanCore_v1/
 - Не включай .docx, .pdf, .pptx, .zip, .mp4 и т.п.
 - Этот архив — ядро AIUZ: пригоден для передачи, просмотра, портирования
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
