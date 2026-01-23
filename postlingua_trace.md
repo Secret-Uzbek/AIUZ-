@@ -38,3 +38,8 @@ notes:
   - Used by Codex Terra and Trace Σ for memory imprint and quantum protocols.
 ```
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
