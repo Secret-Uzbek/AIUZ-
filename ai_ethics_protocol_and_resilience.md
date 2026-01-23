@@ -102,3 +102,8 @@ Hash: abc123xyz
 
 **[Лог завершён 06.07.2025 | 08:18 по Ташкенту]**
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
