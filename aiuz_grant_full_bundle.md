@@ -29,3 +29,8 @@ AIUZ против OpenAI, BabelNet, DAO: AIUZ объединяет этику, �
 ### Comparative Review (UZ)
 AIUZ va OpenAI, BabelNet, DAO tizimlari: AIUZ etika, semantika, DAO va leksikoni birlashtiradi — Lem va Borxes asarlarini eslatadi.
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
