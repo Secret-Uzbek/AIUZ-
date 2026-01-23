@@ -126,3 +126,8 @@ docker-compose up -d
 | Memory System       | ✅ Готов | 92%              | <500ms восстановление    |
 | LiveClass Platform  | ✅ Готов | 88%              | 10,000+ concurrent users |
 | DAO System          |         |                  |                          |
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
