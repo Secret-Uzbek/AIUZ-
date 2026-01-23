@@ -61,3 +61,8 @@ metadata:
   prepared_by: AI Assistant (SciSpace / AIUZ Taskflow)
   date_created: 2025-07-07
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
