@@ -38,3 +38,8 @@
 
 Its relevance exceeds current platforms and touches deep conceptual roots in digital philosophy, humanitarian governance, and speculative cognition.
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
