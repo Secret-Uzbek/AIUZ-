@@ -60,3 +60,8 @@ This project has been referenced in:
 
 Join us in building interpretable, ethical, human-aligned civic systems.
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
