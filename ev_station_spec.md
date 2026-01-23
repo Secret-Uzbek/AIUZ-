@@ -85,3 +85,8 @@
 - Совместимость: AIUZ Stack >= 0.9
 - Контакт: a.abdukarimov@fractal-metascience.org
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
