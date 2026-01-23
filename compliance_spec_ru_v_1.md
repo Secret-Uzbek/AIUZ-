@@ -96,3 +96,8 @@ AIUZ поддерживает семантическую совместимос�
 ## 📘 Лицензия
 OCL-0.2 (Open Codex License)
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
