@@ -97,3 +97,8 @@ class KnowledgeEconomy:
     def calculate_reward(self, contribution):
         return 10  # Примерная награда за участие
 ```
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
