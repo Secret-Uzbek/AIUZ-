@@ -94,3 +94,8 @@ Comprehensive strategic vision document defining AIUZ's sociotechnical alignment
 > ✅ All modules follow AIUZ Document Structuring Protocol v1.3 (inferred).
 > This file acts as the canonical overview for AIUZ Core and may be extended as new components are integrated.
 
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
