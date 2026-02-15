@@ -1,5 +1,8 @@
 name: Pylint
 
+permissions:
+  contents: read
+  security-events: write
 on: [push]
 
 jobs:
