@@ -1,34 +1,26 @@
-# 🌱 AIUZ — AI Ethics Universal Learning Zone
+# 🌐 AIUZ 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TODO.svg)](https://doi.org/#)
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0000-6394-4912-green)](https://orcid.org/0009-0000-6394-4912)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Live Site](secret-uzbek.github.io/AIUZ-)](https://secret-uzbek.github.io/AIUZ-)
 
-[![Live](https://img.shields.io/badge/Live-AIUZ-blue)](https://secret-uzbek.github.io/AIUZ-)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-green)](https://orcid.org/0009-0000-6394-4912)
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-orange)](https://www.gnu.org/licenses/gpl-3.0)
+> **AI Ethics-based Universal Learning Zone. First ethics-grounded AI ecosystem from Uzbekistan.**
 
-> **AIUZ** (AI Ethics-based Universal Learning Zone) — the first ethics-grounded AI educational ecosystem developed in Uzbekistan, designed for child-centric learning with responsible AI collaboration at its core.
+## 🔬 About
+Part of the **Fractal Metascience Paradigm (FMP)** ecosystem developed by Abdurashid Abdukarimov.
+This repository implements principles of **NULLO** (Zero-Point Ontology), **PLT** (Post-Lingua Trace), and **UCOM** (Universal Communication).
 
-## 🎯 Mission
-
-To create an educational environment where children learn **with** AI — not just about AI — while developing critical thinking, ethical judgment, and multilingual competence.
-
-## 🌟 What Makes AIUZ Unique
-
-| Feature | AIUZ | Conventional EdTech |
-|---------|------|---------------------|
-| Ethics-first | ✅ Built-in | ❌ Afterthought |
-| Multilingual | ✅ 10+ languages | ⚠️ Limited |
-| Cultural context | ✅ Central Asian | ❌ Western-default |
-| AI collaboration | ✅ Ethical co-learning | ❌ Tool-only |
-| FMP-based theory | ✅ Scientific | ❌ Ad-hoc |
-
-## 📚 Components
-
-- **Core curriculum** — L0 to L7 progression
-- **Ethics modules** — AI responsibility, digital citizenship
-- **Language labs** — Uzbek, Russian, English, German
-- **AI collaboration framework** — ethical human-AI learning
-- **Assessment system** — competency-based evaluation
+## 📚 Citation
+```bibtex
+@misc{abdukarimov2026aiuz,
+  author = {Abdurashid Abdukarimov},
+  title = {AIUZ-},
+  year = {2026},
+  doi = {10.5281/zenodo.TODO},
+  url = {https://github.com/Secret-Uzbek/AIUZ-}
+}
+```
 
 ## 👤 Author
-
-**Abdurashid Abdukarimov** | Fractal Metascience Foundation | Tashkent, Uzbekistan  
-🔗 [ORCID](https://orcid.org/0009-0000-6394-4912) · [AIUZ Terra Codex](https://github.com/Secret-Uzbek/AIUZ-terra-codex-FMP)
+**Abdurashid Abdukarimov** | Fractal Metascience Foundation, Tashkent
+🔗 [ORCID](https://orcid.org/0009-0000-6394-4912) · [FMP Central](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
