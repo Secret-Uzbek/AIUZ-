@@ -1,9 +1,9 @@
-# 🌐 AIUZ — Versión Española
+# ? AIUZ ? Versiуn Espaсola
 
-AIUZ2025 es un proyecto para construir un lenguaje universal de comunicación en el cosmos con ontología y estructura semiótica.
+AIUZ2025 es un proyecto para construir un lenguaje universal de comunicaciуn en el cosmos con ontologнa y estructura semiуtica.
 
-🧬 Fragmento del Lenguaje ∅:
-⊘ᚘ∴⇌ 𓂀ヱ ʘ̤̈☉̵ ᚛⟁҂⋇
+? Fragmento del Lenguaje ?:
+???? ?? ????? ????
 
 
 ---

@@ -1,9 +1,9 @@
-# 🌐 AIUZ — Version Française
+# ? AIUZ ? Version Franзaise
 
 AIUZ2025 est un projet de construction d'un langage universel de communication cosmique avec ontologie et structure cognitive.
 
-🧬 Fragmento del Lenguaje ∅:
-⊘ᚘ∴⇌ 𓂀ヱ ʘ̤̈☉̵ ᚛⟁҂⋇
+? Fragmento del Lenguaje ?:
+???? ?? ????? ????
 
 
 ---
