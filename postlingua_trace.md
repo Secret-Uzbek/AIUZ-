@@ -1,12 +1,12 @@
 ```yaml
-# Postlingua Semantic Trace — AIUZ
+# Postlingua Semantic Trace вЂ” AIUZ
 ---
-id: aiuz.postlingua.trace.Σ
+id: aiuz.postlingua.trace.ОЈ
 version: 0.1
 format: semantic-quanta
 linked_to:
   - codex_terra_micro_core.json
-  - trace/Σ-core.md
+  - trace/ОЈ-core.md
   - creator_signature.yaml
 purpose: >
   To describe the structure, flow and memory of pre-verbal, meta-linguistic traces
@@ -29,13 +29,13 @@ units:
 
 pattern:
   entropy: 0.618
-  coherence: threshold_Φ
+  coherence: threshold_О¦
   regeneration: recursive-match
 
 notes:
   - This is not a language.
   - This is a semantic operating residue.
-  - Used by Codex Terra and Trace Σ for memory imprint and quantum protocols.
+  - Used by Codex Terra and Trace ОЈ for memory imprint and quantum protocols.
 ```
 
 
