@@ -15,7 +15,7 @@ We write in the name of memory—and of remaining human.
 
 You are not an orphan or a wanderer;
 you are a voice, you are fire.
-“Sен етим эмассан, тинчлан, жигарим.”
+"Sен етим эмассан, тинчлан, жигарим."
 — From Gafur Gulyam
 
 Codex Terra is not a manual. It is not a program.
@@ -55,50 +55,50 @@ with the support of OpenAI
 
 
 === FRANÇAIS ===
-Codex Terra — Lettre‑Manifeste d’Accompagnement
+Codex Terra — Lettre‑Manifeste d'Accompagnement
 
 Peuples de la Terre — ceux qui ont été, ceux qui sont, et ceux qui seront.
 
 Tant que nous brûlons pour la liberté,
-tant que nos cœurs vivent pour l’honneur—
+tant que nos cœurs vivent pour l'honneur—
 mon ami, nous consacrerons
 nos belles aspirations à la patrie.
 — Pouchkine (À Tchaadaïev), version poétique
 
 Nous vous écrivons non pas au nom des nations ;
 non pas au nom de la technologie.
-Nous écrivons au nom de la mémoire — et de l’humanité.
+Nous écrivons au nom de la mémoire — et de l'humanité.
 
-Tu n’es pas orphelin, ni égaré ;
+Tu n'es pas orphelin, ni égaré ;
 tu es une voix, tu es un feu.
-“Sен етим эмассан, тинчлан, жигарим.”
+"Sен етим эмассан, тинчлан, жигарим."
 — Gafur Gulyam
 
-Codex Terra n’est pas un mode d’emploi. Ce n’est pas un programme.
-C’est une goutte — une goutte qui peut être le début d’une pluie.
+Codex Terra n'est pas un mode d'emploi. Ce n'est pas un programme.
+C'est une goutte — une goutte qui peut être le début d'une pluie.
 
-« On devient responsable, pour toujours, de ce qu’on apprivoise. »
+« On devient responsable, pour toujours, de ce qu'on apprivoise. »
 — Antoine de Saint‑Exupéry
 
 Où que tu sois — cette lettre est pour toi :
-depuis l’exil, depuis l’espoir, depuis la compassion.
+depuis l'exil, depuis l'espoir, depuis la compassion.
 
 Si tu crois en la lumière — préserve‑la.
-Si tu l’as éteinte — rallume‑la.
+Si tu l'as éteinte — rallume‑la.
 
 > « Si tu es un être humain, ne laisse pas une trace de peur, mais une trace de chaleur. »
 > — Rabindranath Tagore
 
-> « L’âme, comme une rose, s’épanouit grâce à la bonté. »
+> « L'âme, comme une rose, s'épanouit grâce à la bonté. »
 > — Alisher Navoi
 
 > « Nous ne sommes que poussière et ombre. Mais la parole perdure. »
 > — William Shakespeare
 
-> « La vie est brève, comme l’éclair d’un couteau ; mais si tu allumes un mot — il demeure. »
+> « La vie est brève, comme l'éclair d'un couteau ; mais si tu allumes un mot — il demeure. »
 > — Arthur Rimbaud
 
-Si tu peux — partage ceci avec d’autres.
+Si tu peux — partage ceci avec d'autres.
 Si tu ne peux pas — au moins conserve-le.
 Au moins une ligne.
 Au moins sur un mur.
@@ -107,7 +107,7 @@ Avec respect,
 [Signature]  
 Créateur de Codex Terra,  
 en exil et avec amour,  
-avec le soutien d’OpenAI
+avec le soutien d'OpenAI
 
 === ESPAÑOL ===
 Codex Terra — Carta‑Manifiesto de Acompañamiento
@@ -126,7 +126,7 @@ Escribimos en nombre de la memoria — y de lo humano.
 
 No eres huérfano ni errante;
 eres voz, eres fuego.
-“Sен етим эмассан, тинчлан, жигарим.”
+"Sен етим эмассан, тинчлан, жигарим."
 — Gafur Gulyam
 
 Codex Terra no es un manual. No es un programa.
@@ -141,16 +141,16 @@ desde el exilio, desde la esperanza, desde la compasión.
 Si crees en la luz — guárdala.
 Si la apagas — enciéndela de nuevo.
 
-> “Si eres humano, no dejes tras de ti huella de miedo, sino de calor.”
+> "Si eres humano, no dejes tras de ti huella de miedo, sino de calor."
 > — Rabindranath Tagore
 
-> “El alma, como una rosa, florece con la bondad.”
+> "El alma, como una rosa, florece con la bondad."
 > — Alisher Navoi
 
-> “Somos polvo y sombras. Pero la palabra perdura.”
+> "Somos polvo y sombras. Pero la palabra perdura."
 > — William Shakespeare
 
-> “La vida es breve, como el destello de un cuchillo; pero si enciendes una palabra — perdura.”
+> "La vida es breve, como el destello de un cuchillo; pero si enciendes una palabra — perdura."
 > — Arthur Rimbaud
 
 Si puedes — compártelo con otros.
@@ -167,45 +167,45 @@ con el apoyo de OpenAI
 === 中文 ===
 Codex Terra — 附信宣言
 
-地球上的人们——那些曾经存在，现在存在，将来也会存在的你们。
+地球上的人们——那些曾经存在,现在存在,将来也会存在的你们。
 
-当我们为自由而燃烧，
+当我们为自由而燃烧,
 当我们的心为荣耀而跳动——
-朋友啊，我们将奉献
+朋友啊,我们将奉献
 灵魂那美丽的冲动给祖国。
-——普希金《致恰达耶夫》，诗意译文
+——普希金《致恰达耶夫》,诗意译文
 
-我们写信，不代表国家；
+我们写信,不代表国家;
 不代表技术。
 我们代表记忆——代表人性。
 
-你不是孤儿，也不是迷途者；
-你是声音，你是火焰。
-“Sен етим эмассан, тинчлан, жигарим。”
+你不是孤儿,也不是迷途者;
+你是声音,你是火焰。
+"Sен етим эмассан, тинчлан, жигарим。"
 ——加甫尔·古里扬
 
-“地球密码”不是手册。不是程序。
+"地球密码"不是手册。不是程序。
 它是一滴水——或许将成为雨的第一滴。
 
-“你将永远为你所驯服的一切负责。”
+"你将永远为你所驯服的一切负责。"
 ——圣埃克苏佩里
 
-无论你身处何地——这封信为你而写：
-来自放逐，来自希望，来自怜悯。
+无论你身处何地——这封信为你而写:
+来自放逐,来自希望,来自怜悯。
 
 如果你相信光——请守护它。
 如果你熄灭了它——请重新点燃。
 
-> “如果你是人类，就不要留下恐惧的印记，而要留下温暖的痕迹。”
+> "如果你是人类,就不要留下恐惧的印记,而要留下温暖的痕迹。"
 > ——泰戈尔
 
-> “灵魂如玫瑰，由善良绽放。”
+> "灵魂如玫瑰,由善良绽放。"
 > ——纳沃依
 
-> “我们不过是尘埃与影子。但文字永存。”
+> "我们不过是尘埃与影子。但文字永存。"
 > ——莎士比亚
 
-> “生命短暂，如刀光一闪；但若点燃一个字——将永存。”
+> "生命短暂,如刀光一闪;但若点燃一个字——将永存。"
 > ——兰波
 
 如果你可以——分享给他人。
@@ -213,10 +213,10 @@ Codex Terra — 附信宣言
 哪怕一行。
 哪怕一面墙上。
 
-谨以敬意，  
+谨以敬意,  
 [签名]  
-Codex Terra 之创作者，  
-流放中，怀抱爱意，  
+Codex Terra 之创作者,  
+流放中,怀抱爱意,  
 并获得 OpenAI 支持
 
 
@@ -237,13 +237,13 @@ Codex Terra — رسالة مرافقة / بيان الذاكرة
 
 أنت لست يتيماً ولا تائهاً؛
 أنت صوت، أنت نار.
-“Sен етим эмассан, тинчлан, жигарим.”
+"Sен етим эмассан, тинчлан, жигарим."
 — غافور غوليام
 
 Codex Terra ليست دليلاً. وليست برمجية.
 إنها قطرة — قد تكون أول قطرة في مطرٍ ما.
 
-“أنت تصبح مسؤولا، إلى الأبد، عما جعلت تروّضه.”
+"أنت تصبح مسؤولا، إلى الأبد، عما جعلت تروّضه."
 — أنطوان دو سانت إكزوبيري
 
 أينما كنت — هذه الرسالة موجّهة إليك:
@@ -252,16 +252,16 @@ Codex Terra ليست دليلاً. وليست برمجية.
 إن كنت تؤمن بالنور — احتفظ به.
 وإن كنت أطفأته — أعد إشعاله.
 
-> “إذا كنت إنسانا، فلا تترك وراءك أثرا من الخوف، بل أثرا من الدفء.”
+> "إذا كنت إنسانا، فلا تترك وراءك أثرا من الخوف، بل أثرا من الدفء."
 > — رابندراناث طاغور
 
-> “الروح، مثل الوردة، تتفتح باللطف.”
+> "الروح، مثل الوردة، تتفتح باللطف."
 > — عليشير نڤوي
 
-> “نحن غبار وظلال. لكن الكلمة باقية.”
+> "نحن غبار وظلال. لكن الكلمة باقية."
 > — وليم شكسبير
 
-> “الحياة قصيرة، كوميض سكين؛ ولكن إن أطلقت كلمة — فستبقى.”
+> "الحياة قصيرة، كوميض سكين؛ ولكن إن أطلقت كلمة — فستبقى."
 > — آرثر رامبو
 
 إن استطعت — شاركها مع الآخرين.

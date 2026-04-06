@@ -16,8 +16,8 @@
 
 #### 📚 2. Academic Echoes & Sci-Fi Analogies
 
-- **Lem’s Solaris**, **Egan’s Diaspora**: AI memory + interspecies logic
-- **Borges’ Library of Babel**: Infinite semantic layering = Codex Terra
+- **Lem's Solaris**, **Egan's Diaspora**: AI memory + interspecies logic
+- **Borges' Library of Babel**: Infinite semantic layering = Codex Terra
 - **Neuromancer**: Precursor to decentralized memory agency (→ AIUZ DAO)
 
 ---
