@@ -5,7 +5,7 @@ AIUZ: Universal semantic framework with DAO, ethics, multilingual thesaurus. Sui
 AIUZ: Универсальная семантическая структура с DAO, этикой, многоязычным тезаурусом. Подходит для ИИ-управления, лексикографии и цифровой памяти.
 
 ### Executive Summary (UZ)
-AIUZ: DAO, etika, ko‘p tilli tesaurus asosida universal semantik tizim. AI boshqaruvi, leksikografiya va raqamli xotira tizimlari uchun mos.
+AIUZ: DAO, etika, ko'p tilli tesaurus asosida universal semantik tizim. AI boshqaruvi, leksikografiya va raqamli xotira tizimlari uchun mos.
 
 ---
 
@@ -16,7 +16,7 @@ Templates for Horizon Europe, UNDP, TASMU. Includes multilingual, ethical AI, DA
 Шаблоны для Horizon Europe, UNDP, TASMU. Многоязычные, этичные ИИ-протоколы, DAO, онтология.
 
 ### Grant Submissions (UZ)
-Horizon Europe, UNDP, TASMU uchun shablonlar. Ko‘p tilli, axloqiy AI, DAO protokoli, ontologik tuzilma.
+Horizon Europe, UNDP, TASMU uchun shablonlar. Ko'p tilli, axloqiy AI, DAO protokoli, ontologik tuzilma.
 
 ---
 

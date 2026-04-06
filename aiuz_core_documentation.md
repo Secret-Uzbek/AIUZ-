@@ -37,7 +37,7 @@ Outlines the ethical resilience infrastructure, emergency override clauses, and 
 - Aiuz Pr Manifesto.docx / .pdf / .md
 
 **Summary:**
-A visionary document stating AIUZ’s public commitments, ethical worldview, and its sociotechnical mission in a global context.
+A visionary document stating AIUZ's public commitments, ethical worldview, and its sociotechnical mission in a global context.
 
 **Tags:** `#manifesto` `#philosophy` `#public-policy`
 
