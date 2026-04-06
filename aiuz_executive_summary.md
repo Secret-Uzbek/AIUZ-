@@ -8,11 +8,11 @@ AIUZ is a planetary-scale knowledge and communication system combining semantic 
 ---
 
 **Key Components**
-- **Codex Terra**: A manifesto and philosophical anchor that defines humanity’s symbolic legacy.
+- **Codex Terra**: A manifesto and philosophical anchor that defines humanityвЂ™s symbolic legacy.
 - **Ontology Layer (L0)**: Core concepts such as Codex, Trace, Nous, Thesaurus.
 - **Governance (L3)**: Stake-based DAO with semantic validation and multi-token voting.
 - **Linguistic Core**: Multilingual thesaurus, glossaries, and parsers in Uzbek, German, English, Russian.
-- **Technological Infrastructure (L1–L4)**: Includes KYC protocols, IoT integration, and API interfaces.
+- **Technological Infrastructure (L1вЂ“L4)**: Includes KYC protocols, IoT integration, and API interfaces.
 
 ---
 
