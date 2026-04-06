@@ -1,6 +1,6 @@
 # DAO Framework
 
-Layer L3 — Governance and participation.
+Layer L3 вЂ” Governance and participation.
 
 ---
 **Contact:** a.abdukarimov@fractal-metascience.org  
