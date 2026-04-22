@@ -4,6 +4,10 @@ on:
   release:
     types: [published]
 
+concurrency:
+  group: zenodo-${{ github.repository }}-${{ github.event.release.tag_name }}
+  cancel-in-progress: false
+
 jobs:
   register-doi:
     runs-on: ubuntu-latest
@@ -13,8 +17,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_TOKEN }}
 
       - name: Wait for Zenodo webhook
         run: sleep 90
@@ -22,7 +24,8 @@ jobs:
       - name: Poll Zenodo for DOI
         id: zenodo
         run: |
-          REPO_URL="https://github.com/Secret-Uzbek/AIUZ-"
+          set -euo pipefail
+          REPO_URL="https://github.com/${{ github.repository }}"
           echo "Searching Zenodo for: $REPO_URL"
 
           for attempt in 1 2 3 4 5; do
@@ -53,45 +56,59 @@ except:
       - name: Update CITATION.cff
         if: steps.zenodo.outputs.doi != ''
         run: |
+          set -euo pipefail
           DOI="${{ steps.zenodo.outputs.doi }}"
           VERSION="${{ github.event.release.tag_name }}"
           DATE=$(date +%Y-%m-%d)
 
-          if [ -f CITATION.cff ]; then
-            # Update existing
-            python3 -c "
-import re, sys
-with open('CITATION.cff','r') as f:
-    content = f.read()
-content = re.sub(r'^(# )?doi:.*$', f'doi: {sys.argv[1]}', content, flags=re.MULTILINE)
-content = re.sub(r'^version:.*$', f'version: {sys.argv[2]}', content, flags=re.MULTILINE)
-content = re.sub(r'^date-released:.*$', f'date-released: {sys.argv[3]}', content, flags=re.MULTILINE)
-with open('CITATION.cff','w') as f:
-    f.write(content)
-" "$DOI" "$VERSION" "$DATE"
-          else
-            cat > CITATION.cff << EOF
-cff-version: 1.2.0
+          python3 - <<'PY' "$DOI" "$VERSION" "$DATE"
+import pathlib
+import re
+import sys
+
+doi, version, date = sys.argv[1:]
+path = pathlib.Path("CITATION.cff")
+
+if path.exists():
+    content = path.read_text(encoding="utf-8")
+    updates = {
+        "doi": doi,
+        "version": version,
+        "date-released": date,
+    }
+    for key, value in updates.items():
+        pattern = rf"^{re.escape(key)}:.*$"
+        if re.search(pattern, content, flags=re.MULTILINE):
+            content = re.sub(pattern, f"{key}: {value}", content, flags=re.MULTILINE)
+        else:
+            if not content.endswith("\n"):
+                content += "\n"
+            content += f"{key}: {value}\n"
+else:
+    content = f"""cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
-title: "AIUZ-"
-version: $VERSION
-date-released: $DATE
-doi: $DOI
-url: "https://github.com/Secret-Uzbek/AIUZ-"
-repository-code: "https://github.com/Secret-Uzbek/AIUZ-"
+title: "AIUZ"
+version: {version}
+date-released: {date}
+doi: {doi}
+url: "https://github.com/${{ github.repository }}"
+repository-code: "https://github.com/${{ github.repository }}"
 license: CC-BY-4.0
 authors:
   - family-names: Abdukarimov
     given-names: Abdurashid
     orcid: "https://orcid.org/0009-0000-6394-4912"
     affiliation: "Fractal Metascience Foundation"
-EOF
-          fi
+"""
+
+path.write_text(content, encoding="utf-8")
+PY
 
       - name: Commit CITATION.cff
         if: steps.zenodo.outputs.doi != ''
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add CITATION.cff

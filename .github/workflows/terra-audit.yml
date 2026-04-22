@@ -1,8 +1,50 @@
 name: Terra Audit
-on: [push]
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
 jobs:
-  check:
+  audit:
     runs-on: ubuntu-latest
     steps:
-      - name: Status
-        run: echo 'NULLO-POINT REACHED'
+      - uses: actions/checkout@v4
+      - name: Check governance surface
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          check_any() {
+            local label="$1"
+            shift
+            for file in "$@"; do
+              if [ -f "$file" ]; then
+                echo "- $label: YES ($file)" >> "$GITHUB_STEP_SUMMARY"
+                return 0
+              fi
+            done
+            echo "- $label: NO" >> "$GITHUB_STEP_SUMMARY"
+            return 1
+          }
+
+          fail=0
+          echo "## Terra Audit" >> "$GITHUB_STEP_SUMMARY"
+          check_any "README" "README.md" || fail=1
+          check_any "LICENSE" "LICENSE" "LICENSE.md" || fail=1
+          check_any "SECURITY" "SECURITY.md" || fail=1
+          check_any "CONTRIBUTING" "CONTRIBUTING.md" || fail=1
+          check_any "CODE_OF_CONDUCT" "CODE_OF_CONDUCT.md" || fail=1
+          check_any "GOVERNANCE" "GOVERNANCE.md" || fail=1
+          check_any "CONVENTION" "TERRA_UNIVERSAL_CONVENTION.md" || fail=1
+          check_any "PUBLICATION_RULE" "PUBLICATION_RULE.md" || fail=1
+
+          if [ "$fail" -ne 0 ]; then
+            echo "Required governance surface is incomplete."
+            exit 1
+          fi
