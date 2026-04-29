@@ -1,65 +1,47 @@
-# 🌐 AIUZ — English Version
+# AIUZ - English Entry Surface
 
+This file is the English companion entry for the AIUZ repository.
 
-# 🌌 AIUZ2025 — Архив Вечности
+For the main up-to-date public repository surface, start with:
 
-Добро пожаловать в универсальный архив проекта AIUZ — языка и модели общения Вселенной. Этот архив содержит:
+- [`README.md`](./README.md)
 
-## 📁 Структура
+## What AIUZ means
 
-- `/docs` — Гайдбук, гайдлайны, техрегламенты
-- `/models` — JSON-модели терминов и универсальных единиц общения (ЭУО)
-- `/visuals` — Визуализация уровней и структуры взаимодействия
-- `/core` — Философия, семиотика, гносеология
-- `/ontology` — Семантические карты и онтологии (будет добавлено)
-- `/api` — Интерфейсы взаимодействия с IoT и ИИ (будет добавлено)
-- `/samples` — Примеры терминов и сценариев применения
+AIUZ stands for **AI Ethics-based Universal Learning Zone**.
 
-## 🧠 Цель
-Создать вселенскую модель общения — от квантов и бактерий до инопланетных интеллектов и холодильников.
+This branch gathers materials connected to:
 
-## 📍 Создано сессией AIUZ от 2025-07-07
+- ethical educational technologies;
+- multilingual learning structures;
+- dictionary and semantic work;
+- outward-facing AIUZ documentation;
+- program, grant, and public support materials.
 
----
+## Reading route
 
-## ©️ Авторские права и лицензия
+If you want the shortest reliable path, read in this order:
 
-**AIUZ2025** — интеллектуальная разработка системы универсального общения и семиотической онтологии.
+1. [`README.md`](./README.md)
+2. [`CONTRIBUTING.md`](./CONTRIBUTING.md)
+3. [`SECURITY.md`](./SECURITY.md)
+4. [`CITATION.cff`](./CITATION.cff)
 
-© 2025 Автор AIUZ. Все права защищены.
+## Language rule
 
-Лицензия:  
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+The main repository surface should remain English-first.
 
-Вы можете:
-- 📤 Распространять, цитировать, адаптировать
-- 💡 Использовать в образовании, науке, разработке
+Russian and other language files may stay as secondary surfaces when needed, but
+they should not replace the English entry layer.
 
-С условиями:
-- 📌 Указывать авторство
-- 🚫 Не использовать в коммерческих целях без разрешения
-- 🔁 Распространять производные материалы под той же лицензией
+## Ecosystem links
 
----
+- [FMP-CENTRAL-REPO](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
+- [terra-legal](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal)
+- [Organization profile](https://github.com/AIUZ-Terra-Codex-EcoSystem)
 
-## 📡 Хештеги и индексы
+## Author
 
-**#AIUZ2025**  
-**#UniversalLanguage**  
-**#SemanticCosmos**  
-**#EoU (EntitiesOfUnderstanding)**  
-**#КогнитивнаяФрактализация**  
-**#ИнопланетнаяСемиотика**  
-**#ГайдбукВселенскогоЯзыка**  
-**#HumanMachineMeaning**
-
----
-
-
-🧬 Fragmento del Lenguaje ∅:
-⊘ᚘ∴⇌ 𓂀ヱ ʘ̤̈☉̵ ᚛⟁҂⋇
-
-
----
-**Contact:** a.abdukarimov@fractal-metascience.org  
-**ORCID:** 0009-0000-6394-4912
+Abdurashid Abdukarimov  
+Fractal Metascience Foundation  
+ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
