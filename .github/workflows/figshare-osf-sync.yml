@@ -26,9 +26,9 @@ jobs:
             exit 0
           fi
 
-          TITLE="AIUZ- - ${{ github.event.release.tag_name }}"
+          TITLE="AIUZ - ${{ github.event.release.tag_name }}"
           DESC="${{ github.event.release.body }}"
-          REPO_URL="https://github.com/Secret-Uzbek/AIUZ-"
+          REPO_URL="https://github.com/Secret-Uzbek/AIUZ"
 
           # Create article
           RESPONSE=$(curl -s -X POST \
@@ -67,8 +67,8 @@ jobs:
             exit 0
           fi
 
-          TITLE="AIUZ- - ${{ github.event.release.tag_name }}"
-          REPO_URL="https://github.com/Secret-Uzbek/AIUZ-"
+          TITLE="AIUZ - ${{ github.event.release.tag_name }}"
+          REPO_URL="https://github.com/Secret-Uzbek/AIUZ"
 
           # Create OSF project node
           RESPONSE=$(curl -s -X POST \

@@ -22,7 +22,7 @@ jobs:
       - name: Poll Zenodo for DOI
         id: zenodo
         run: |
-          REPO_URL="https://github.com/Secret-Uzbek/AIUZ-"
+          REPO_URL="https://github.com/Secret-Uzbek/AIUZ"
           echo "Searching Zenodo for: $REPO_URL"
 
           for attempt in 1 2 3 4 5; do
@@ -74,12 +74,12 @@ with open('CITATION.cff','w') as f:
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
-title: "AIUZ-"
+title: "AIUZ"
 version: $VERSION
 date-released: $DATE
 doi: $DOI
-url: "https://github.com/Secret-Uzbek/AIUZ-"
-repository-code: "https://github.com/Secret-Uzbek/AIUZ-"
+url: "https://github.com/Secret-Uzbek/AIUZ"
+repository-code: "https://github.com/Secret-Uzbek/AIUZ"
 license: CC-BY-4.0
 authors:
   - family-names: Abdukarimov
