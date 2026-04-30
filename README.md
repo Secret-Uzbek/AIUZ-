@@ -1,84 +1,87 @@
 # AIUZ
 
-[![Central Hub](https://img.shields.io/badge/Central-FMP--CENTRAL--REPO-blue)](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
+[![Central Hub](https://img.shields.io/badge/Central-FMP--CENTRAL--REPO-0b5cad)](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
 [![Legal Layer](https://img.shields.io/badge/Legal-terra--legal-0f6b57)](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-green)](https://orcid.org/0009-0000-6394-4912)
-[![GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-blueviolet)](https://secret-uzbek.github.io/AIUZ-)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-6394-4912)
+[![License](https://img.shields.io/badge/License-CC0--1.0-lightgrey)](./LICENSE)
+[![Release](https://img.shields.io/github/v/release/Secret-Uzbek/AIUZ?display_name=tag)](https://github.com/Secret-Uzbek/AIUZ/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/Secret-Uzbek/AIUZ)](https://github.com/Secret-Uzbek/AIUZ/commits/main)
+[![Pages](https://img.shields.io/badge/Pages-AIUZ-0f6b57)](https://secret-uzbek.github.io/AIUZ/)
+[![DOI](https://img.shields.io/badge/DOI-pending-b8860b)](./CITATION.cff)
 
-> AI Ethics-based Universal Learning Zone: a public AIUZ branch inside the wider
-> Terra / Fractal Metascience Paradigm ecosystem.
+> AI Ethics-based Universal Learning Zone: the practical public-facing AIUZ surface inside the wider Terra and FMP ecosystem.
 
-## What AIUZ is
+## What this repository is
 
-`AIUZ` is the practice-facing branch for ethical education, multilingual
-learning structures, dictionary work, program architecture, and outward-facing
-AIUZ documentation.
+`AIUZ` is a live implementation repository for:
 
-It is not:
+- ethical educational technology;
+- multilingual human-first interfaces;
+- public AIUZ platform architecture;
+- practical documentation, protocols, and deployment-facing materials;
+- bridge artifacts connecting theory, public explanation, and applied system building.
 
-- the full Terra archive;
-- the full legal trunk;
-- the whole FMP theory corpus;
-- a blind sink for mixed backups and session residue.
+It is a practice surface, not the whole archive, not the whole theory layer, and not the whole legal donor layer.
 
-## Current repository reality
+## Main public surfaces
 
-This repository is in active normalization.
+- GitHub Pages: [secret-uzbek.github.io/AIUZ](https://secret-uzbek.github.io/AIUZ/)
+- Repository root: [github.com/Secret-Uzbek/AIUZ](https://github.com/Secret-Uzbek/AIUZ)
 
-That means:
+## Governance and repository bridge
 
-- strong source materials are already present;
-- the root surface is being restored toward readable English-first entry files;
-- some deeper folders still contain mixed-language drafts, duplicates, and old
-  export residue;
-- governance and service files are being aligned with `terra-legal` without
-  flattening AIUZ into a generic template.
+This repository already exposes a readable governance bridge:
 
-## Human reading path
+- [GOVERNANCE.md](./GOVERNANCE.md)
+- [TERRA_UNIVERSAL_CONVENTION.md](./TERRA_UNIVERSAL_CONVENTION.md)
+- [PUBLICATION_RULE.md](./PUBLICATION_RULE.md)
+- [SECURITY.md](./SECURITY.md)
+- [CONTRIBUTING.md](./CONTRIBUTING.md)
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
+- [CITATION.cff](./CITATION.cff)
 
-If you are reading this repository as a human, start here:
+## Reading path
 
-1. `README.md`
-2. `readme_ru.md` if you need the Russian entry surface
-3. `CONTRIBUTING.md`
-4. `SECURITY.md`
-5. `CITATION.cff`
-6. core AIUZ concept and documentation files that clearly belong to this branch
+1. Start with [README.md](./README.md)
+2. Continue to [readme_en.md](./readme_en.md)
+3. If needed, use [readme_ru.md](./readme_ru.md) as the secondary Russian entry surface
+4. Then open [GOVERNANCE.md](./GOVERNANCE.md)
+5. Then move to repository-specific materials and platform documents
 
-## Language policy
+## Ecosystem position
 
-The main repository surface should be English-first.
+### Theory and publication
 
-Russian and other language files may remain as secondary companion surfaces when
-they already exist, but the default public entry should stay readable in
-English.
+- [FMP-CENTRAL-REPO](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
+- [FMP-monograph](https://github.com/Secret-Uzbek/FMP-monograph)
+- [Theory-of-fractal-metascience-paradigm](https://github.com/Secret-Uzbek/Theory-of-fractal-metascience-paradigm)
 
-## Relation to the wider ecosystem
+### Practice and platform
 
-`AIUZ` belongs to a distributed ecosystem that includes:
+- [AIUZ-Terra-codex](https://github.com/Secret-Uzbek/AIUZ-Terra-codex)
+- [AIUZ-terra-codex-FMP](https://github.com/Secret-Uzbek/AIUZ-terra-codex-FMP)
+- [terra-translation-api](https://github.com/Secret-Uzbek/terra-translation-api)
+- [terra-ust-core](https://github.com/Secret-Uzbek/terra-ust-core)
 
-- [`FMP-CENTRAL-REPO`](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) as
-  the central public hub;
-- [`terra-legal`](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal) as
-  the donor governance and legal layer;
-- theory and publication repositories that carry the wider FMP corpus;
-- organization repositories inside
-  [`AIUZ-Terra-Codex-EcoSystem`](https://github.com/AIUZ-Terra-Codex-EcoSystem)
-  for legal, institutional, and ecosystem-facing branches.
+### Legal and donor layer
 
-## Repository rule
+- [terra-legal](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal)
+- [AIUZ-Terra-Codex-EcoSystem profile](https://github.com/AIUZ-Terra-Codex-EcoSystem/github)
 
-AIUZ should continue moving toward:
+## Language rule
 
-- readable public entry files;
-- English-first repository surfaces with optional secondary translations;
-- coherent ethics and governance files;
-- less mojibake, less residue, less accidental clutter;
-- clearer separation between human-facing, machine-facing, and archive-facing
-  material.
+The main repository surface should stay English-first.
+Russian and other language files may remain as secondary companion surfaces when they already exist.
+
+## Operating rule
+
+This repository must stay readable for humans first.
+Automated systems must not flatten the difference between theory, practice, governance, archive, and shadow layers.
 
 ## Author
 
-Abdurashid Abdukarimov  
-Fractal Metascience Foundation, Tashkent, Uzbekistan  
-ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
+**Abdurashid Abdukarimov**
+
+- ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
+- Foundation: Fractal Metascience Foundation
+- Location: Tashkent, Uzbekistan
